@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NAS306
-- 👀 I’m interested in ... JAVA, JavaScript, C
+- 👀 I’m interested in ... JavaScript
 - 🌱 I’m currently learning ... JAVA, C
 - 💞️ I’m looking to collaborate on ... currently, none
-- 📫 How to reach me ... 369.kim.t.y@gmail.com or EBOD0369 in Kakao talk
+- 📫 How to reach me: EBOD0369 in Kakao talk
 - https://superayidie.github.io/
 
 <!---
