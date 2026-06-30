@@ -7,4 +7,5 @@
 - Make your project folder into a text document
 - It's good for your LLM to understand your project
 
-
+# https://nas306.github.io/Universal_Manual/
+- Manual for anything, any works you can customize
