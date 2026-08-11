@@ -9,3 +9,6 @@
 
 # https://nas306.github.io/Universal_Manual/
 - Manual for anything, any works you can customize
+
+# https://nas306.github.io/Pixelator/
+- Pixelate any Images, GIFs or even videos
